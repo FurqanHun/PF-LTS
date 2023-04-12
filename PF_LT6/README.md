@@ -45,7 +45,7 @@ Enter Amount to Withdraw: 200
 **Sample Output:**
 Your account now is -140.00 dollars
 
-*Check out my [Github Repo](https://github.com/FurqaHun/PF-LTS "Repo contains all the other tasks too ;)") if you want to see more tasks* <br>
+*Check out my [Github Repo](https://github.com/FurqanHun/PF-LTS "Repo contains all the other tasks too ;)") if you want to see more tasks* <br>
 
 [FurqanHun Instagram](https://www.instagram.com/furqan_hi_hun "Follow me on insta ;)") <br>
 [FurqanHun Github](https://github.com/FurqanHun "Follow my Github profile") <br>

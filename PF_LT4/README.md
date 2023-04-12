@@ -22,7 +22,7 @@ Write a program that prompts the user for the radius of a sphere and prints its 
 
 For a student of CS102, take his Quiz #1 marks (out of 5) as input and convert it into percentage marks.
 
-*Check out my [Github Repo](https://github.com/FurqaHun/PF-LTS "Repo contains all the other tasks too ;)") if you want to see more tasks* <br>
+*Check out my [Github Repo](https://github.com/FurqanHun/PF-LTS "Repo contains all the other tasks too ;)") if you want to see more tasks* <br>
 
 [FurqanHun Instagram](https://www.instagram.com/furqan_hi_hun "Follow me on insta ;)") <br>
 [FurqanHun Github](https://github.com/FurqanHun "Follow my Github profile") <br>
