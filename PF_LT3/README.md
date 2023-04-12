@@ -5,12 +5,12 @@ Introduction to C.
 ## Question 1
 
 Write a program to print the given menu:
-![Image contains a main menu](LT3_Assets\Q1_LT3.png)
+![Image contains a main menu](./LT3_Assets/Q1_LT3.png)
 
 ## Question 2
 
 Write a program that prints the following Menu on the screen.
-![Image contains another main menu](LT3_Assets\Q2_LT3.png)
+![Image contains another main menu](./LT3_Assets/Q2_LT3.png)
 
 *Check out my [Github Repo](https://github.com/FurqaHun/PF-LTS "Repo contains all the other tasks too ;)") if you want to see more tasks* <br>
 
