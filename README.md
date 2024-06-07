@@ -13,4 +13,3 @@ All the lab tasks i submitted during my 1st semester course programming fundamen
 
 [FurqanHun Instagram](https://www.instagram.com/furqan_hi_hun "Follow me on insta ;)") <br>
 [FurqanHun Github](https://github.com/FurqanHun "Follow my Github profile") <br>
-[FurqanHun LinkedIn](https://www.linkedin.com/in/FurqanHun "Connect with me on LinkedIn")
