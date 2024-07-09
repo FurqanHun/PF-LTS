@@ -11,5 +11,4 @@ All the lab tasks i submitted during my 1st semester course programming fundamen
 
 *Lab Task 2 and 7 aren't missing from the repo, LT 2 was about setting yp the IDE while LT 7 was about "Nested loops in C" but we weren't given any tasks in it.*
 
-[FurqanHun Instagram](https://www.instagram.com/furqan_hi_hun "Follow me on insta ;)") <br>
 [FurqanHun Github](https://github.com/FurqanHun "Follow my Github profile") <br>
